@@ -2,7 +2,6 @@
   <ul id="sub_nav">
     <%= tab :wordsmith_settings %>
     <%= tab :posts %>
-    <%= tab :pages %>    
-    <%= tab :view_blog, :route => :posts, :css_class => 'last' %>
+    <li class="last"><%= link_to(t('View_blog'), posts_url) %></li>
   </ul>
 <% end %>

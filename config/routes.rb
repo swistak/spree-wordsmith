@@ -6,5 +6,4 @@ map.resources :pages
 map.namespace :admin do |admin|
   admin.resource :wordsmith_settings
   admin.resources :posts
-  admin.resources :pages
 end  
