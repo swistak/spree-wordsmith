@@ -20,7 +20,7 @@ pl:
   pages: Stron
   permalink: Permalink
   post: Wiadomość
-  posts: Wiasomości
+  posts: Wiadomości
   publish: Wysłać
   publish_post: "Wyślij Wiadomość"
   published: Wysłano
@@ -37,4 +37,4 @@ pl:
   wordsmith_post_status_default: "Domyślny status dla nowej wiadomości"
   wordsmith_posts_per_page: "Wiadomości wyświetlone na stronie głównej bloga"
   wordsmith_posts_recent: "Wiadomości umieszczone na liście ostatnich wiadomości"
-  wordsmith_settings: "Ustawienia Blogu"
+  wordsmith_settings: "Ustawienia Bloga"

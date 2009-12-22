@@ -35,7 +35,7 @@ class WordsmithExtension < Spree::Extension
     #    # add_extension_admin_tab takes an array containing the same arguments expected
     #    # by the tab helper method:
     #    #   [ :extension_name, { :label => "Your Extension", :route => "/some/non/standard/route" } ]
-        add_extension_admin_tab [ :wordsmith, { :label => t("Wordsmith"), :route => :admin_posts } ]
+        add_extension_admin_tab [ :wordsmith, { :label => "Wordsmith", :route => :admin_posts } ]
       end
     end
 
