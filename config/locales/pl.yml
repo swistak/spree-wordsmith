@@ -1,0 +1,41 @@
+﻿---
+pl:
+    Wordsmith: Blog
+    posts: Wiasomości
+    post: Wiadomość
+    pages: Stron
+    page: Strona
+    comment: Komentarz
+    comments: Komentarze
+    new_comment: Nowy Komentarz
+    comments_closed: Komentarze są zamknięte
+    recent_posts: Ostatnie Wiadomości
+    new-post: Nowa Wiadomość
+    view: Widok
+    title: Tytuł
+    permalink: Permalink
+    body: Treść
+    excerpt: Cytat
+    author: Autor
+    publish_post: Wyślij Wiadomość
+    comment_status: Status Komantarza
+    tags: Słowa Kluczowe
+    tags_hint: Wpisz Słowa Kluczowe oddzielone przecinkiem
+    wordsmith_settings: Ustawienia Blogu
+    wordsmith_permalink: Skrót użyty w adresie do strony głownej bloga
+    wordsmith_posts_per_page: Wiadomości wyświetlone na stronie głównej bloga
+    wordsmith_posts_recent: Wiadomości umieszczone na liście ostatnich wiadomości
+    wordsmith_post_status_default: Domyślny status dla nowej wiadomości
+    wordsmith_post_comment_default: Status domyślnego komentarza dla nowych wiadomości
+    wordsmith_mailer_from: Od adresu email dla powiadomien komentarzy do autorów wiadomości
+    publish: Wysłać
+    published: Wysłano    
+    draft: Szkic
+    open: Otworzyć
+    closed: Zamknięty
+    view_blog: Obejrzyj Bloga
+    blog: Blog
+    comments_for: Komentarze do
+    recent: Ostatnie
+    no_posts_found: Nie znaleziono wiadomości
+    new-page: Nowa strona
